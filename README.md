@@ -1,4 +1,4 @@
-🚀 My LeetCode Practice Journey
+🚀 **My LeetCode Practice Journey**
 Stronger Coding Foundations
 Regularly solving LeetCode problems helps me sharpen my coding skills in core areas like data structures, algorithms, and logic building, essential for excelling in interviews and real-world projects.
 
